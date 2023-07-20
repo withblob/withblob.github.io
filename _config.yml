@@ -1,0 +1,12 @@
+title: Blob - developer tools and APIs
+email: support@withblob.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Blob offers developer tools and APIs for global and distributed DNS testing,
+  propagation checks and health monitoring. 
+url: "https://withblob.com"
+github_username:  withblob
+theme: just-the-docs
+search_enabled: false
+aux_links:
+  "GitHub":
+    - "https://github.com/withblob/dns"
