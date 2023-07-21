@@ -10,6 +10,6 @@ bundle exec jekyll serve
 
 To deploy to production, just push the updated code into the `main` branch in this repository.
 
-Available under MIT license
+Available under the MIT license
 
-Copyright https://withblob.com
+Copyright (c) 2023 Blob DNS https://withblob.com
