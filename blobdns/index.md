@@ -19,9 +19,9 @@ This approach will actually test the DNS record propagation from the perspective
 
 In other words, it can be useful to see how your DNS records propagate blobally ;)
 
+## Usage:
 
-```yaml
-Usage:
+```md
   blobdns <arguments> [options]
 
 Examples:
@@ -45,10 +45,13 @@ Options:
 ### `$ blobdns example.com`
 <br/>
 
-![blobdns example.com output](https://user-images.githubusercontent.com/139460414/253770768-296b80c0-e35a-490c-8efb-e92fd6d2245f.png)
+![blobdns example.com output](https://user-images.githubusercontent.com/139460414/255538187-8bf6e40d-ccfa-4e08-a82f-e934c66bd2e3.png)
 
-Built in Rust. To use it, you will need to compile it yourself (for now). Pre-built packages will come soon!
+Built in Rust. To use it, please download available packages from the [releases](https://github.com/withblob/dns/releases) page.
+You can also compile it from source, see GitHub readme for details.
 
-Available under MIT license
+### 💚 Contributions and feature requests are welcome!
+
+Available under MIT license.
 
 Copyright <a href="https://withblob.com">https://withblob.com</a>
